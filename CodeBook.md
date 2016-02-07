@@ -96,3 +96,11 @@ Consists of following 66 measurements -
 65 frequencyBodyGyroscopeJerkMagnitude-Mean()      
 66 frequencyBodyGyroscopeJerkMagnitude-StdDev()
 
+###Implementation Details (variables & transformations applied to prepare tidy_data.txt)
+
+The script `run_analysis.R` contains the details to prepare final data 'tidy_data.txt'. 
+
+* It creates A zipped folder 'dataset.zip' in thw working directory & downloads file in it.
+* Zipped file is then unzipped & a folder UCI HAR Dataset is created
+* 
+
