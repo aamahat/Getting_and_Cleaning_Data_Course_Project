@@ -4,12 +4,6 @@
 ###Description
 This is the code book explaining the variabels & elements used in the attached tidy data set https://github.com/aamahat/Getting_and_Cleaning_Data_Course_Project/blob/master/tidy_data.txt.
 
-###References 
-Original Data Source => https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-tidy_data.txt => resulting data
-README file at https://github.com/aamahat/Getting_and_Cleaning_Data_Course_Project/blob/master/README.md
-Identifiers
-
 ###Identifiers
 
 Data is grouped with respect to each subject & each activity. 
@@ -22,12 +16,13 @@ Data is grouped with respect to each subject & each activity.
 
 Consists of six activity labels namely - 
 
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
+
 
 ###Measurements
 
