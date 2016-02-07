@@ -3,6 +3,8 @@
 ###Description
 This is the code book explaining the variabels & elements used in the attached tidy data set https://github.com/aamahat/Getting_and_Cleaning_Data_Course_Project/blob/master/tidy_data.txt.
 
+Tidy data represents average of each variable for each activity and each subject from the original data which is available at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. Original data consists of 561 measurements out of which only Mean & Standard Deviation related measurements are avialable in tidy dataset.  
+
 ###Identifiers
 
 Data is grouped with respect to each subject & each activity. 
