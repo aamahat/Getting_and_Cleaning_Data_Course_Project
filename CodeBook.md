@@ -1,5 +1,4 @@
 ##Code Book for Getting and Cleaning Data Course Project
--------------------------------
 
 ###Description
 This is the code book explaining the variabels & elements used in the attached tidy data set https://github.com/aamahat/Getting_and_Cleaning_Data_Course_Project/blob/master/tidy_data.txt.
